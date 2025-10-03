@@ -21,3 +21,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/level-up-advanced-sql?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHtM4L47HiTTA/learning-public-crop_288_512/0/1678834688263?e=2147483647&v=beta&t=z4D7GGd51Bnp57k_qjDZ1oXIQi1_r3rVAoKDTAUXoyM
+
+###
